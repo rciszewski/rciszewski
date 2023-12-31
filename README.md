@@ -1,16 +1,31 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**rciszewski/rciszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ron Ciszewski and I am a web developer!
 
-Here are some ideas to get you started:
+🔭 I currently have built projects using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+React
+HTML5  
+CSS3
+Sass
+Postgres 
+Express
+Zustand
+Redux
+Firebase
+AWS
+Material UI
+Node
+
+🌱 I’m currently learning:
+
+TypeScript
+GraphQL
+
+👯 I’m looking to join a team of developers that focus on building and learning from one another!
+
+📫 How to reach me: ronciszewski1@gmail.com
+
+Follow Me!
+LinkedIn
