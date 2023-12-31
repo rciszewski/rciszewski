@@ -4,7 +4,7 @@ My name is Ron Ciszewski and I'm a web developer!
 
 🔭 I currently have built projects using:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,sass,postgress,express,zustand,redux,firebase,aws,materialui,node,html,css,&perline=3)](https://skillicons.dev)
 JavaScript
 React
 HTML5  
@@ -24,7 +24,7 @@ Node
 TypeScript
 GraphQL
 
-👯 I’m looking to join a team of developers that focus on building and learning together!
+💯 I’m looking to join a team of developers that focus on building and learning together!
 
 📫 How to reach me: ronciszewski1@gmail.com
 
