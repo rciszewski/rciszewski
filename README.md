@@ -4,23 +4,10 @@ My name is Ron Ciszewski and I'm a web developer!
 
 🔭 I currently have built projects using:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,sass,postgress,express,zustand,redux,firebase,aws,materialui,node,html,css,&perline=3)](https://skillicons.dev)
-JavaScript
-React
-HTML5  
-CSS3
-Sass
-Postgres 
-Express
-Zustand
-Redux
-Firebase
-AWS
-Material UI
-Node
+[![My Skills](https://skillicons.dev/icons?i=js,react,sass,postgres,express,zustand,redux,firebase,aws,materialui,nodejs,html,css,&perline=3)](https://skillicons.dev) & Zustand
 
 🌱 I’m currently learning:
-
+[![My Skills](https://skillicons.dev/icons?i=ts,graphql&perline=3)](https://skillicons.dev) 
 TypeScript
 GraphQL
 
