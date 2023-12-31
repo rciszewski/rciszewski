@@ -6,7 +6,10 @@ My name is Ron Ciszewski and I'm a web developer!
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,sass,postgres,express,redux,firebase,aws,materialui,nodejs,html,css,&perline=3)](https://skillicons.dev) 
 
+& Zustand
+
 🌱 I’m currently learning:
+
 [![My Skills](https://skillicons.dev/icons?i=ts,graphql&perline=3)](https://skillicons.dev) 
 
 💯 I’m looking to join a team of developers that focus on building and learning together!
