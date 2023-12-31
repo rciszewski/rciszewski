@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Ron Ciszewski and I am a web developer!
+My name is Ron Ciszewski and I'm a web developer!
 
 🔭 I currently have built projects using:
 
@@ -23,7 +23,7 @@ Node
 TypeScript
 GraphQL
 
-👯 I’m looking to join a team of developers that focus on building and learning from one another!
+👯 I’m looking to join a team of developers that focus on building and learning together!
 
 📫 How to reach me: ronciszewski1@gmail.com
 
