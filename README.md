@@ -17,4 +17,4 @@ My name is Ron Ciszewski and I'm a web developer!
 📫 How to reach me: ronciszewski1@gmail.com
 
 Follow Me!
-LinkedIn
+<a href='https://www.linkedin.com/in/rciszewski/' target='_blank'>LinkedIn</a>
