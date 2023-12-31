@@ -4,6 +4,7 @@ My name is Ron Ciszewski and I'm a web developer!
 
 🔭 I currently have built projects using:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 JavaScript
 React
 HTML5  
