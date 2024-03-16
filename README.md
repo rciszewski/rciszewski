@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Ron Ciszewski and I'm a web developer!
+My name is Ron Ciszewski and I'm a fullstack developer!
 
 
 🔭 I currently have built projects using:
